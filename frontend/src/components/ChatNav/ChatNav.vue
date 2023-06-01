@@ -36,8 +36,8 @@ const navType = {
 const navConfigs = [
   {
     key: navType.github,
-    label: '开源地址',
-    url: 'https://github.com/adams549659584/go-proxy-bingai',
+    label: '开源地址（镜像by星河）',
+    url: 'https://github.com/StarsRivers/go-proxy-bingai/',
   },
   {
     key: navType.version,
