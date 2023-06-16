@@ -1,7 +1,7 @@
 package web
 
 import (
-	"StarsRivers/go-proxy-bingai/common"
+	"adams549659584/go-proxy-bingai/common"
 	"embed"
 	"io/fs"
 	"net/http"
